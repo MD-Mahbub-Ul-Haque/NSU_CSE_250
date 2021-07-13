@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615994731 source:c:\users\hp\desktop\nsu spring21\cse\lab03\main.cpp
+
+1615994818 source:c:\users\hp\desktop\nsu spring21\cse\lab03\src\task01.cpp
+	<iostream>
+
+1615994818 source:c:\users\hp\desktop\nsu spring21\cse\lab03\src\task02.cpp
+	<iostream>
+

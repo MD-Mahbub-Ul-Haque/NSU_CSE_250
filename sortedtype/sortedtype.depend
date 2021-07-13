@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1616475766 source:c:\users\hp\desktop\nsu spring21\cse\sortedtype\src\sortedtype.cpp
+	"sortedtype.h"
+
+1616475559 c:\users\hp\desktop\nsu spring21\cse\sortedtype\include\sortedtype.h
+
+1616476370 source:c:\users\hp\desktop\nsu spring21\cse\sortedtype\main.cpp
+	<iostream>
+	"src\sortedtype.cpp"
+
+1616475766 c:\users\hp\desktop\nsu spring21\cse\sortedtype\src\sortedtype.cpp
+	"sortedtype.h"
+

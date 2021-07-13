@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616401981 source:c:\users\hp\desktop\nsu spring21\cse\series\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619369340 source:c:\users\hp\desktop\nsu spring21\cse\labmanual12\src\sortedtype.cpp
+	"sortedtype.h"
+	"timeStamp.h"
+	<iostream>
+
+1619369340 c:\users\hp\desktop\nsu spring21\cse\labmanual12\include\sortedtype.h
+
+1619369340 c:\users\hp\desktop\nsu spring21\cse\labmanual12\include\timestamp.h
+
+1619369340 source:c:\users\hp\desktop\nsu spring21\cse\labmanual12\src\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616167929 source:c:\users\hp\desktop\nsu spring21\cse\complex\main.cpp
+	<iostream>
+	"complex.h"
+
+1616168466 source:c:\users\hp\desktop\nsu spring21\cse\complex\src\complex.cpp
+	"complex.h"
+	<iostream>
+
+1616168601 c:\users\hp\desktop\nsu spring21\cse\complex\include\complex.h
+

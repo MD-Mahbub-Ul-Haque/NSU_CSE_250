@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618154255 source:c:\users\hp\desktop\nsu spring21\cse\stacktype08\src\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1618154255 c:\users\hp\desktop\nsu spring21\cse\stacktype08\include\stacktype.h
+
+1618155951 source:c:\users\hp\desktop\nsu spring21\cse\stacktype08\src\main.cpp
+	<iostream>
+	<iomanip>
+	"stacktype.cpp"
+
+1618154255 c:\users\hp\desktop\nsu spring21\cse\stacktype08\src\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

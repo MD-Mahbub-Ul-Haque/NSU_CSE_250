@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617705835 source:c:\users\hp\desktop\nsu spring21\cse\quetype\src\quetype.cpp
+	"quetype.h"
+
+1617705835 c:\users\hp\desktop\nsu spring21\cse\quetype\include\quetype.h
+
+1617706897 source:c:\users\hp\desktop\nsu spring21\cse\quetype\src\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1617705835 c:\users\hp\desktop\nsu spring21\cse\quetype\src\quetype.cpp
+	"quetype.h"
+
